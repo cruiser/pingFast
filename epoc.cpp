@@ -14,7 +14,7 @@ void ping() {
     
     std::map<int, std::string> websites = {
         {1, "www.steamcommunity.com"},
-        {2, "www.pornhub.com"},
+        {2, "www.google.com"},
         {3, "www.twitter.com"},
         {4, "www.cplusplus.com"},
         {5, "www.github.com"},
