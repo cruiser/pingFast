@@ -50,7 +50,7 @@ void ping() {
 
 int main()
 {
-    SetConsoleTitle( TEXT( "PingJoy"));
+    SetConsoleTitle( TEXT( "ping"));
     ping();
     return(0);
 }
